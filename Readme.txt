@@ -1,0 +1,1 @@
+This auxiliary tool will take a file saved as FBX (2012 version), extracts information that is deemed useful and save it as a custom binary file format that is significantly smaller and easier to parse by the component based game engine I developed for my junior game. This tool was used heavily by the artists on the team to get their work from its raw format to the game engine. 
